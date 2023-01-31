@@ -1,6 +1,6 @@
 # Crux—app for Slack to summarize your conversations and threads
 
-Hey there :wave: I'm Crux. I'm here to summarize your Slack conversations.
+Hey there :wave: I'm [Crux](https://getcrux.app). I'm here to summarize your Slack conversations.
 
 Not sure if you want to click through a long Slack thread? Don't worry. With Crux, you'll get a summary of your Slack conversations to help you easily read, reply and act quickly.
 
@@ -21,3 +21,4 @@ To summarize a conversation you can use the following methods:
 
 :information_desk_person:  Ask for help using the /help command.
 
+[Install Crux](https://getcrux.app) today in your Slack workspace and save hours spent on reading through long conversations.
