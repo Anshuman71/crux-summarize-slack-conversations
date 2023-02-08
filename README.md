@@ -1,4 +1,4 @@
-# Crux—app for Slack to summarize your conversations and threads
+# Crux—summarize your Slack conversations
 
 ![Banner](https://d3mhjf54oqinl2.cloudfront.net/2023-01-30/4718334889300_fd6646f502ec8518a6b8_440.png)
 
@@ -24,3 +24,6 @@ To summarize a conversation you can use the following methods:
 :information_desk_person:  Ask for help using the /help command.
 
 [Install Crux](https://getcrux.app) today in your Slack workspace and save hours spent on reading through long conversations.
+
+[LinkedIn](https://www.linkedin.com/company/getcrux) 
+[Crunchbase](https://www.crunchbase.com/organization/crux-6af7)
