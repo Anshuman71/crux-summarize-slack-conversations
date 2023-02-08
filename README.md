@@ -27,3 +27,4 @@ To summarize a conversation you can use the following methods:
 
 [LinkedIn](https://www.linkedin.com/company/getcrux) 
 [Crunchbase](https://www.crunchbase.com/organization/crux-6af7)
+[ProductHunt](https://www.producthunt.com/products/crux-3)
