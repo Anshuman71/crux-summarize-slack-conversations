@@ -1,6 +1,6 @@
 # Crux—summarize your Slack conversations
 
-![Banner](https://d3mhjf54oqinl2.cloudfront.net/2023-01-30/4718334889300_fd6646f502ec8518a6b8_440.png)
+![Banner](https://getcrux.app/banner-ph.png)
 
 Hey there :wave: I'm [Crux](https://getcrux.app). I'm here to summarize your Slack conversations.
 
